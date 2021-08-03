@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Quicksand:wght@500&display=swap');
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.navbar{
+    background-color: #D3D3D3;
+    color: white;
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+h3{
+    text-transform: uppercase;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.content{
+    padding-top: 30px;
+    background-color: #D3D3D3;
+    color: black;
+    font-family: sans-serif;
+    
+}
+
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#parceiros{
+    background-color: #7FFFD4;
+    color: white;
+  
+
+}
+
+#servicos{
+    background-color:#D3D3D3 ;
+    
+}
+
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
